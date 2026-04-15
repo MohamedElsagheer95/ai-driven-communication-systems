@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hybrid Deep Learning for Automatic Modulation Classification (AMC)</h1>
+  <h1> Hybrid ResNet-LSTM Model for Automatic Modulation Classification (AMC)</h1>
   <p><i>Leveraging Deep Residual Learning and Temporal Dependencies for 6G Wireless Systems</i></p>
 </div>
 
